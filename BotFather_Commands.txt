@@ -1,0 +1,158 @@
+start - Start the bot & main menu
+help - Show all commands
+credits - Check your credits
+premium - Premium info & upgrade
+disclaimer - Educational disclaimer
+referral - Referral program & your link
+leaderboard - Top 10 users leaderboard
+claim - Claim daily reward & streak
+redeem - Redeem a promo code
+feedback - Send feedback to developer
+
+bin - BIN Checker
+gen - CC Generator
+chk - CC Luhn Checker
+bulkgen - Bulk CC Generator
+ccextrap - Extract info from a card number
+
+tempmail - Generate temp email
+inbox - Check temp email inbox
+fakeaddr - Fake address generator
+passgen - Password generator
+
+status - Website status checker
+iplookup - IP/Domain lookup
+ssl - SSL certificate info
+whois - WHOIS lookup
+portscan - Check if a port is open
+scanports - Scan top 20 ports on a host
+
+urlencode - URL encode
+urldecode - URL decode
+htmlenc - HTML encode
+htmldec - HTML decode
+b64enc - Base64 encode
+b64dec - Base64 decode
+md5 - MD5 hash
+sha256 - SHA256 hash
+uuid - Generate UUID
+emailval - Validate email
+color - Color converter HEX/RGB/HSL
+
+age - Age calculator
+avg - Average calculator
+temp - Temperature converter
+currency - Live currency converter
+discount - Discount calculator
+gst - GST calculator
+cpm - CPM calculator
+
+bin2dec - Binary to decimal
+dec2bin - Decimal to binary
+hex2dec - Hex to decimal
+dec2hex - Decimal to hex
+oct2dec - Octal to decimal
+dec2oct - Decimal to octal
+bin2ascii - Binary to ASCII
+ascii2bin - ASCII to binary
+text2hex - Text to hex
+
+upper - Convert to uppercase
+lower - Convert to lowercase
+title - Convert to title case
+swapcase - Swap letter case
+reverse - Reverse text
+wordcount - Word & character count
+commasep - Add comma separators
+
+crypto - Live crypto prices
+worldmonitor - Live world news (5 credits)
+subscribe - Auto world news subscription
+unsubscribe - Cancel news subscription
+weather - Live weather for any city
+stock - Real-time stock price lookup
+translate - Translate text (30+ languages)
+define - Dictionary word definitions
+joke - Random joke — free!
+fact - Random fact — free!
+qr - Generate QR code from text
+qrurl - Convert URL to QR code
+fileqr - File to QR code (3 credits)
+shorturl - Shorten any URL
+
+trivia - Trivia quiz — bet credits, win 2x!
+passwordgen - Generate a secure password
+timezone - Current time in any city
+calc - Calculator (free)
+randomname - Random identity generator
+geoip - Deep IP geolocation lookup
+hashlookup - Reverse MD5 hash lookup
+
+wiki - Wikipedia article summary
+stats - Statistical analysis of numbers
+convert - Unit converter (km/kg/L/GB...)
+prime - Prime number checker & nth prime
+baseconv - Base converter (bin/hex/oct/dec)
+roman - Number to Roman numerals
+periodic - Periodic table (all 118 elements)
+fibonacci - Fibonacci sequence generator
+morse - Morse code encode / decode
+caesar - Caesar cipher encode / decode
+rot13 - ROT13 cipher
+binary2text - Binary to Text converter
+hex2text - Hex to Text converter
+jwtdecode - Decode a JWT token
+
+rps - Rock Paper Scissors vs bot
+8ball - Magic 8-Ball — ask anything
+roll - Dice roller (2d6, 1d20+5...)
+quote - Random inspirational quote
+meme - Random meme from internet
+advice - Random life advice
+scramble - Word scramble — win credits!
+hangman - Hangman game
+tictactoe - Tic Tac Toe vs bot
+
+country - Country info (capital, pop...)
+earthquake - Latest USGS earthquake data
+reddit - Top posts from any subreddit
+covid - COVID-19 stats by country
+dnscheck - DNS record lookup
+lyrics - Song lyrics lookup
+github - GitHub profile info
+npm - NPM package info
+pypi - PyPI package info
+movie - Movie info & ratings
+headers - HTTP response headers of any URL
+
+notes - Personal notes manager
+todo - To-do list manager
+remind - Set a reminder (5m/1h/2h30m)
+pastebin - Upload text, get shareable URL
+loan - Loan payment calculator
+compound - Compound interest calculator
+
+dice - Dice game — bet credits
+flip - Coin flip game — bet credits
+slots - Slot machine — spin to win big
+roulette - Roulette — red/black/number
+blackjack - Blackjack — beat the dealer
+crash - Crash game — set target multiplier
+horse - Horse race — pick your winner
+tower - Tower climb — survive the floors
+guess - Guess the number 1-10, win 8x
+
+devpanel - Developer control panel
+broadcast - Dev: Message all users
+botstats - Dev: Full bot statistics
+maintenance - Dev: Toggle maintenance mode
+transfercredits - Dev: Send credits to a user
+givepremium - Dev: Grant premium to a user
+banuser - Dev: Ban a user
+unbanuser - Dev: Unban a user
+createcode - Dev: Create promo code
+listcodes - Dev: List all promo codes
+deletecode - Dev: Delete a promo code
+analytics - Dev: Tool usage analytics
+viewfeedback - Dev: View user feedback
+dev - Developer panel
